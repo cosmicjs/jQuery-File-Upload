@@ -12,4 +12,4 @@ http-server
 ```
 2. Go to http://localhost:8080 to upload media to a demo Bucket.
 3. Create your own bucket on [Cosmic JS](https://cosmicjs.com)
-4. Connect to your own Bucket by editing the endpoint in [js/main.js](https://github.com/cosmicjs/jQuery-File-Upload/blob/master/js/main.js)
+4. Connect to your own Bucket by editing the URL endpoint in [js/main.js](https://github.com/cosmicjs/jQuery-File-Upload/blob/master/js/main.js)
