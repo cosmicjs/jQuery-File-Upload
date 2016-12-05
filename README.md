@@ -1,5 +1,6 @@
 # jQuery File Upload Plugin
-
+##Demo
+[Demo File Upload](http://jquery-file-upload.cosmicapp.co/)
 
 ## Description
 This repo demonstrates how to upload media to your [Cosmic JS](https://cosmicjs.com) Bucket using the popular jQuery-File-Upload library by [blueimp](https://github.com/blueimp).
