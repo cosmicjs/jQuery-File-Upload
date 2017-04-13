@@ -1,5 +1,5 @@
 # jQuery File Upload Plugin
-##Demo
+## Demo
 [Demo File Upload](http://jquery-file-upload.cosmicapp.co/)
 
 ## Description
